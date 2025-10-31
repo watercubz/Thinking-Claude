@@ -5,7 +5,7 @@ Let Claude think comprehensively before responding!
 > **A super quick reminder:**
 > Thinking claude **is not aimed for benchmarks or huge leaps in math or something**, since those are pre-determined by the base model (new Claude-3.5 Sonnet).
 > I only want to explore how further we could reach with Claude's "deep mindset". That said, when using it in your daily tasks, you will find Claude's inner monolog (thinking process) very very fun and interesting.
-
+ 
 ## Demo
 
 > It is supposed to work on both `Free` and `Pro` versions of [Claude Web App](https://claude.ai/) with `Claude 3.5 Sonnet` model.
